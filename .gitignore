@@ -1,0 +1,24 @@
+# Audio files
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+
+# Generated outputs
+outputs/
+transcript.txt
+summary.txt
+questions.txt
+notes.md
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS junk
+Thumbs.db
+.DS_Store

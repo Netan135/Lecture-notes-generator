@@ -1,0 +1,5 @@
+1. open the lecture-notes-project folder in vs code.
+2. press ctrl + `
+3. type this in terminal: cd C:\Users\acer\Documents\a-MY-Coding-Projects\lecture-notes-project
+4. type : python main.py
+5. browser will open , upload audio there. for downloading the audio samples use this link: https://www.voiptroubleshooter.com/open_speech/american.html
